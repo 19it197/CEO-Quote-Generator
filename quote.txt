@@ -1,0 +1,15 @@
+[
+	"Engineering is the closest thing to magic that exists in the world." - Elon Musk,
+	"Our industry does not respect tradition - it only respects innovation." - Satya Nadella,
+	"For me, it matters that we drive technology as an equalizing force, as an enabler for everyone around the world." - Sundar Pichai,
+	"Stone Age. Bronze Age. Iron Age. We define entire epics of humanity by the technology they use." - Reed Hastings,
+	 "Desperation sometimes drives innovation." - Dara Khosrowshahi,
+	"It's not about working harder; it's about working the system." - Evan Spiegel,
+	 "Make every detail perfect and limit the number of details to perfect." - Jack Dorsey,
+	"Growth and comfort do not coexist." - Ginni Rometty,
+	"I know how tough engineering school can really be, but it's worth it." - Brian Krzanich,
+	"It's very difficult to design something for someone if you have no empathy." - Stewart Butterfield,
+	“Don’t compare yourself with anyone in this world… if you do so, you are insulting yourself.”-Bill Gates,
+
+	
+];
